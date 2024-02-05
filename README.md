@@ -3,6 +3,11 @@
 I am Sherren Jie. I'm currently learning on iOS development, so if you are into it, let's get connected!
 
 Also leetcode >.<
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 <!--
 **sherrenjie/sherrenjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
