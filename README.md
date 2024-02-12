@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Sherren Jie. I'm currently learning on iOS development, so if you are into it, let's get connected!
+I am Sherren Jie. I love trying new things. If you wanna build something cool too, let's get connected!
 
-Also leetcode >.<
+We can also grind leetcode together if you are into it <3
 
 ---
 
