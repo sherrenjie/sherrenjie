@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sherren Jie. I love trying new things. If you wanna build something cool too, let's get connected!
+My name is Sherren. I love trying new things. If you wanna build something cool too, let's get connected!
 
 We can also grind leetcode together if you are into it <3
 
