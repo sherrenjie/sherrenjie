@@ -51,6 +51,4 @@ I am a Computer Science & Mathematics student from Brandeis Unviversity.
   ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sherrenjie)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherrenjie"/>
-
 ---
