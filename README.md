@@ -17,7 +17,7 @@ We can also grind leetcode together if you are into it <3
 </div>
 
 <div id="badges">
-  <a href="(https://www.linkedin.com/in/sherren-jie-1706a1236/)">
+  <a href="https://www.linkedin.com/in/sherren-jie-1706a1236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="website-URL">
