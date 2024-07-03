@@ -8,7 +8,7 @@ We can also grind leetcode together if you are into it <3
 
 ##
 <h1>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I+am+Sherren)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there%2C+I+am+Sherren!)](https://git.io/typing-svg)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
