@@ -6,6 +6,11 @@ We can also grind leetcode together if you are into it <3
 
 ---
 
+##
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/cute-doraemon-MWqc0k2qiD1As" width="100"/>
+</div>
+
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
 
