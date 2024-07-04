@@ -46,9 +46,7 @@ I am a Computer Science & Mathematics student from Brandeis University.
 - ⚡ Fun fact: I like to take nap in my free time
 
   ### 🔥 &nbsp; My Stats :
-  <div align="center">
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sherrenjie)](https://git.io/streak-stats)
-  </div>
 
 
 ---
