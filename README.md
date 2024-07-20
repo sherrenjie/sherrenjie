@@ -4,10 +4,13 @@ My name is Sherren. I love trying new things. If you wanna build something cool 
 
 We can also grind leetcode together if you are into it <3
 
-public class Sherren {
-  int age = 21;
-  String[] hobbies = {"Reading", "Watch kdrama", "Doing leetcode", "Sleeping"}
+```java
+public class Sherren
+{
+  private int age = 21;
+  public String[] hobbies = new String[] { "Sleeping", "Watch kdrama", "Doing leetcode", "Reading"};
 }
+```
 
 ---
 
