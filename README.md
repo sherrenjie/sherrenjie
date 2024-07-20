@@ -9,6 +9,8 @@ public class Sherren
 {
   private int age = 21;
   public String[] hobbies = new String[] { "Sleeping", "Watch kdrama", "Doing leetcode", "Reading"};
+  private String favoriteKDrama = "Signal";
+  private String favoriteBook = "∞";
 }
 ```
 
