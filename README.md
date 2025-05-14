@@ -7,7 +7,7 @@ We can also grind leetcode together if you are into it <3
 ```java
 public class Sherren
 {
-  private int age = 21;
+  private int age = 22;
   public String[] hobbies = new String[] { "Sleeping", "Watch kdrama", "Doing leetcode", "Reading"};
   private String favoriteKDrama = "Signal";
   private String favoriteBook = "∞";
